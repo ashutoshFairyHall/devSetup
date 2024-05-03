@@ -1,1 +1,2 @@
 Starting with https://andrew.cloud/dev-setup/
+Install iTerm2 and oh-my-zsh : https://catalins.tech/improve-mac-terminal/
